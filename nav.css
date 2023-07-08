@@ -22,6 +22,7 @@ header{
     text-transform: uppercase;
     letter-spacing: 1.5px;
     cursor: pointer;
+    
 }
 nav li{
     display: inline-block;
@@ -35,6 +36,10 @@ nav li a{
     color: azure;
     text-transform: uppercase;
 
+}
+nav li a:hover{
+    color: rgb(224, 183, 19);
+    border: 2px solid rgb(35, 7, 248);
 }
 iframe{
     height: 500px;
@@ -82,8 +87,19 @@ span{
 }
 .float{
     padding: 2px;
+    margin-top: 2px;
 }
 i{
    padding: 5px;
    margin-left: 5px;
+   margin-top: 2px;
+}
+a,button{
+    font-size: 20px;
+    background-color: #24252A;
+    color: azure;
+}
+button:hover{
+    color: rgb(224, 183, 19);
+    border: 2px solid rgb(35, 7, 248);
 }
