@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+img{
+    height: 50px ;
+    width: 50px;
+    margin-left: 25px;
+    padding:10px 5px ;
+    margin-top: 5px;
+    border-radius: 15px;
+}
+nav{
+    background-color: aqua;
+    height: 70px;
+    width: 100%;
+}
