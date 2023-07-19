@@ -1,0 +1,17 @@
+.head1{
+    display: inline-block;
+    height: 30px;
+    width: 420px;
+    text-align: center;
+    margin-left: 200px;
+    font-size: 35px;
+ color: rgb(52, 0, 100);
+}
+ul li {
+    list-style-type: none;
+}
+.list   li :before {
+    content: "kk";
+
+}
+    

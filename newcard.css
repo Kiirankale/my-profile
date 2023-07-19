@@ -1,0 +1,42 @@
+.container{
+    background-color: rgb(177, 246, 246);
+    height: 100vh;
+    width: 100%;
+}
+
+.photo-section{
+    display: inline-block;
+    margin-left: 50px;
+}
+.kiran{
+    height: 200px ;
+    width: 200px;
+}
+.content-section{
+    display: inline-block;
+    margin-left: 50px;
+}
+.points li{
+    padding: 10px;
+    list-style-type: none;
+    font-size: 18px;
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+}
+.points li:before{
+    content:  "👉";
+}
+.content-section table tr th{
+    margin: 5px
+}
+.kk{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.points ul li :hover{
+    background-color: azure;
+}
+h1{
+    color: rgb(9, 45, 7);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
